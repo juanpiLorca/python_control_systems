@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+pandas
+keyboard==0.13.5
